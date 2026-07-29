@@ -24,4 +24,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Jeeva-G08/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Jeeva-G08/leetcode/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Jeeva-G08/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
